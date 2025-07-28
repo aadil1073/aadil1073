@@ -8,7 +8,7 @@
 ##  About Me
 
 -  Working on MERN Stack projects with real-time features (Chat, Video Calls)
--  Exploring Deep Learning, Next.js, and advanced system design
+-  Exploring Deep Learning, Next.js, and system design
 -  Building smart apps using AI/ML and automation
 -  Ask me about JavaScript, Node.js, React, or TensorFlow
 -  Open to collaboration, freelance gigs, and open-source contributions
