@@ -22,8 +22,7 @@
 **Backend:** Node.js, Express.js, REST API, Socket.io  
 **Database:** MongoDB, MySQL  
 **AI/ML:** TensorFlow, scikit-learn, Pandas, NumPy
-
-**Testing:** Selenium
+**Testing:** Manual, Automation
 **Tools:** Git, GitHub, VS Code, Postman, Jira
 **Cloud & DevOps:** Cloudinary, Render, Vercel, GitHub Actions
 
