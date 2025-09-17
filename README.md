@@ -1,6 +1,6 @@
 # Hello, I'm Md Aadil
 
- **Full Stack Developer** |  **ML Enthusiast** | Passionate Problem Solver  
+ **Full Stack Developer** |  **ML Enthusiast** |  **Shopify Developer** |Passionate Problem Solver  
  I build scalable web apps, AI tools, and real-time systems with performance and user experience in mind.
 
 ---
