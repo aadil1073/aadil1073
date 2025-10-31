@@ -63,11 +63,11 @@
 
 ---
 
-## Dynamic Typing Animation
+## Animation
 
 <p align="center">
   <a href="https://github.com/aadil1073">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&width=550&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Shopify+Expert;Passionate+Problem+Solver;Always+Learning+🚀" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&width=550&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Shopify+Expert;Passionate+Problem+Solver;Always+Learning+" alt="Typing Animation" />
   </a>
 </p>
 
