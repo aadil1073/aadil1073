@@ -42,16 +42,16 @@
 ## GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadil1073&show_icons=true&theme=radical" alt="Aadil's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadil1073&theme=radical" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aadil1073&show_icons=true&theme=tokyonight&hide_border=false" alt="Aadil's GitHub stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=aadil1073&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadil1073&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadil1073&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Most Used Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aadil1073&theme=dracula&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aadil1073&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -63,10 +63,12 @@
 
 ---
 
-##  Fun Animation
+## Dynamic Typing Animation
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Shopify+Expert;Passionate+Problem+Solver;Always+Learning+🚀&center=true&width=600&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" />
+  <a href="https://github.com/aadil1073">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&width=550&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Shopify+Expert;Passionate+Problem+Solver;Always+Learning+🚀" alt="Typing Animation" />
+  </a>
 </p>
 
 ---
