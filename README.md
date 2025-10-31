@@ -3,6 +3,10 @@
  **Full Stack Developer** |  **ML Enthusiast** |  **Shopify Developer** |Passionate Problem Solver  
  I build scalable web apps, AI tools, and real-time systems with performance and user experience in mind.
 
+ <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=aadil17&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
+</p>
+
 ---
 
 ##  About Me
